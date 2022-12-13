@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80)]
+![MasterHead](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80)
 
 <h1 align="center">Hi 👋, I'm Sajib</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
