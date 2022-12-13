@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/k51SYzB/gif.png)
+![MasterHead](https://i.ibb.co/znt5KvV/github.png)
 
 <h1 align="center">Hi 👋, I'm Sajib</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
